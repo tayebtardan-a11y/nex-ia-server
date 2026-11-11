@@ -1,13 +1,17 @@
+
 {
   "name": "nex-ia-server",
   "version": "1.0.0",
-  "type": "module",
+  "description": "NEX-1A AI Server",
+  "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "dependencies": {
     "express": "^4.21.2",
-    "cors": "^2.8.5",
-    "dotenv": "^16.4.7"
+    "cors": "^2.8.5"
+  },
+  "engines": {
+    "node": ">=18"
   }
 }
