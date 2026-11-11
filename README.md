@@ -1,2 +1,2 @@
 # nex-ia-server
-NEX AI Backend
+NEX IA Backend
